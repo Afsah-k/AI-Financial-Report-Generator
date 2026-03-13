@@ -71,10 +71,9 @@ MSc Data Science – University of Essex
 
 
 
-
-\## Dashboard Preview
-
+## Dashboard Preview
 
 
-!\[Financial Dashboard](outputs/financial\_dashboard.png)
+
+![Financial Dashboard](outputs/financial_dashboard.png)
 
